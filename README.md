@@ -1,3 +1,3 @@
 # cool website that im,,, making
 
-[trolled] (images/troll.png)
+![trolled](images/troll.png)
